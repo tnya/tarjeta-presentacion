@@ -58,10 +58,16 @@ h2{
     bottom: -5px;
 }
 
-/*.small-logo{
-	background-image: url(../img/Laboratoria_Isotipo CodeAcademy.png);
-	position:relative;
-	
+.small-logo {
+    background-image: url(../img/Laboratoria_Isotipo_CodeAcademy.png);
+    position: relative;
+    width: 40px;
+    height: 40px;
+    bottom: 17px;
+    left: 200px;
+}
 
-
+.logo-laboratoria{
+	background-image: url(../img/Laboratoria_Logo.png);
+	position: absolute;
 }
